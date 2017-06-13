@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Malaria is a mosquito-borne infectious disease affecting humans and other animals caused by parasitic protozoans (a group of single-celled microorganisms) belonging to the Plasmodium type.[</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Malaria</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Malaria</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Infectious</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom>The classic symptom is paroxysm, a cyclical occurance of sudden coldness followed by shivering and then fever and sweating, occuring every 2-3 days.</Symptom>
+		<Symptom>Fever</Symptom>
+		<Symptom>Feeling tired</Symptom>
+		<Symptom>Vomiting</Symptom>
+		<Symptom>Shivering</Symptom>
+		<Symptom>Joint Pain</Symptom>
+		<Symptom>Hemolytic anemia</Symptom>
+		<Symptom>Jaundice</Symptom>
+		<Symptom>Hemoglobin in the urine</Symptom>
+		<Symptom>Retinal damage</Symptom>
+		<Symptom>Headaches</Symptom>
+		<Symptom>Convulsions</Symptom>
+		<Symptom>Early disease similar to flu-like symptoms</Symptom>
+		<Symptom>Can resemble other conditions, such as sepsis, gastroenteritis, and viral diseases.</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Bite by infected female Anopheles mosquito.</Cause>
+		<Cause>Five species of parasitic Plasmodium protozoans</Cause>
+		<Cause>Plasmodium falciparum causes the most deaths.</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Tropical regions around the equator, including sub-Saharan Africa, Asia, and Latin America.</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Recent travel history (for non-endemic areas)</Diagnostic>
+		<Diagnostic>Enlarged spleen</Diagnostic>
+		<Diagnostic>Fever</Diagnostic>
+		<Diagnostic>Low number of platelets in the blood.</Diagnostic>
+		<Diagnostic>Higher than normal levels of bilirubin in the blood.</Diagnostic>
+		<Diagnostic>Confirm with microscopic examination of blood films or by antigen-based rapid diagnostic tests (RDT).</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Antimalarial medications, incl. artemisinins in combination with other anti-malarials, such as amodiaquine, lumefantrine, mefloquine, and others.</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>When properly treated, people with malaria can usually expect a complete recovery.</Prognosis>
+		<Prognosis>However, severe malaria can progress extremely rapidly and cause death within hours or days.</Prognosis>
+		<Prognosis>In the most severe cases of the disease, fatality rates can reach 20%, even with intensive care and treatment.</Prognosis>
+	</Prognoses>
+</Disease>

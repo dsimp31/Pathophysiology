@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Osteoporosis is a disease where increased bone weakness increases the risk of a broken bone. It is the most common reason for a broken bone among the elderly.</ShortDescription>
+		<WikiURL>https://en.m.wikipedia.org/wiki/Osteoporosis</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Osteoperosis</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Rheumatology</Speciality>
+		<Speciality>Bone</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom>Main consequence is the increased risk of bone fractures</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Vitamin D deficiency</Cause>
+		<Cause>Malnutrition</Cause>
+		<Cause>Heredity</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>The elderly</RiskFactor>
+		<RiskFactor>Risk of falling, due to other causes (glaucoma, Parkinsons, etc)</RiskFactor>
+		<RiskFactor>Women with estrogen deficiency following menopause or surgical removal of ovaries</RiskFactor>
+		<RiskFactor>Relatively high correlation with heredity. At least 30 genes are associated.</RiskFactor>
+		<RiskFactor>Those who have already had a fracture are at least twice as likely to have another (compared to peers</RiskFactor>
+		<RiskFactor>Tobacco smokers</RiskFactor>
+		<RiskFactor>Vitamin D deficiency</RiskFactor>
+		<RiskFactor>Malnutrition</RiskFactor>
+		<RiskFactor>High dietary protein from animal sources</RiskFactor>
+		<RiskFactor>Underweight / inactive</RiskFactor>
+		<RiskFactor note="Females">Endurance training</RiskFactor>
+		<RiskFactor>Heavy metals exposure</RiskFactor>
+		<RiskFactor>Soft drinks with phosphoric acid</RiskFactor>
+		<RiskFactor>Protein pump inhibitors for 2+ years (for GERD)</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Bone mineral density (BMD) tests via dual-energy X-ray absorptiometry</Diagnostic>
+		<Diagnostic>X-Ray</Diagnostic>
+		<Diagnostic>Chemical biomarkers (enzymes)</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Good diet</Treatment>
+		<Treatment>Exercise</Treatment>
+		<Treatment>Fall prevention</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

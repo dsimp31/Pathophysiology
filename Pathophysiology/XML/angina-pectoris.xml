@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>The sensation of chest pain, pressure, or squeezing, often due to not enough blood flow to the heart muscle as a result of obstruction or spasm of the coronary arteries.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Angina</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Angina</Name>
+		<Name>Angina pectoris</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Cariology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Myocardial ischemia</Relation>
+		<Relation>Coronary artery disease</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Sharp or stabbing chest pain, influenced by respiration, and not relieve by antacids.</Symptom>
+		<Symptom>Antacids do not relieve the pain</Symptom>
+		<Symptom>(Stable Angina) Chest discomfort and associated symptoms preciptated by activity</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause frequency="Primary">Coronary artery disease</Cause>
+		<Cause>Smoking</Cause>
+		<Cause>Diabetes mellitus</Cause>
+		<Cause>Obesity</Cause>
+		<Cause>Kidney disease</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Age > 45 for men, > 55 for women</RiskFactor>
+		<RiskFactor>Smoking</RiskFactor>
+		<RiskFactor>Diabetes mellitus</RiskFactor>
+		<RiskFactor>Family history of premature cariovascular disease</RiskFactor>
+		<RiskFactor>Hypertension</RiskFactor>
+		<RiskFactor>Kidney disease</RiskFactor>
+		<RiskFactor>Obesity, BMI > 30kg/m2</RiskFactor>
+		<RiskFactor>Physical inactivity</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Should be suspected in people presenting tight, dull, or heavy chest discomfort</Diagnostic>
+		<Diagnostic>Retrosternal or left-sided, radiating to the left arm, neck, jaw, or back</Diagnostic>
+		<Diagnostic>Associated with exertion or emotional stress that is relieved in minutes by rest</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Nitroglycerin, a potent vasodilator that decreases myocardial oxygen demand by decreasing the heart's workload.</Treatment>
+		<Treatment>Balloon angioplasty</Treatment>
+		<Treatment>Coronary bypass surgery</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Prognosis for stable angina is good, however, unstable angina can be extremely painful and can be a first indicator of myocardial infarction risk.</Prognosis>
+		<Prognosis>Severe attacks can be life threatening if untreated.</Prognosis>
+	</Prognoses>
+</Disease>

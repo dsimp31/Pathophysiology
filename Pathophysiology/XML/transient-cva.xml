@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A transient ischemic attack (TIA) is a transient episode of neurologic dysfunction caused by ischemia (loss of blood flow) – either focal brain, spinal cord, or retinal – without acute infarction (tissue death).</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Transient_ischemic_attack</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Transient ischemic attack</Name>
+		<Name>Transient CVA</Name>
+		<Name>Mini stroke</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Neurology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Stoke</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Same symptoms associate with stroke</Symptom>
+		<Symptom>Unlike a stroke, symptoms can resolve between minutes and < 24 hours</Symptom>
+		<Symptom>Contralateral paralysis (opposite side of body from affected brain hemisphere)</Symptom>
+		<Symptom>Sudden weakness or numbness</Symptom>
+		<Symptom>Sudden dimming oir loss of vision</Symptom>
+		<Symptom>Aphasia (inability to form or understand language)</Symptom>
+		<Symptom>Sysarthria (slurred speech)</Symptom>
+		<Symptom>Mental confusion</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Embolus that occludes an artery in the brain, usually arising from dislodged artherosclerotic plaque in one of the carotid arteries</Cause>
+		<Cause>Thrombus that has originaated from the atrium of the heart due to fibrillation</Cause>
+		<Cause>Excessive narrowing of large vessels due to artherosclerotic plaque</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Having a TIA is a risk factor for stroke or silent stroke</RiskFactor>
+		<RiskFactor>Family history of TIA</RiskFactor>
+		<RiskFactor>Hypertension</RiskFactor>
+		<RiskFactor>Diabetes mellitus</RiskFactor>
+		<RiskFactor>Tobacco smoking</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Physical exam</Diagnostic>
+		<Diagnostic>CT scan or MRI of the brain</Diagnostic>
+		<Diagnostic>Ultrasound of the neck to find artherosclerosis</Diagnostic>
+		<Diagnostic>ECG of the heart</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Depends on the underlying cause</Treatment>
+		<Treatment>Antiplatelet medications like aspirin reduce recurrence by 13%</Treatment>
+		<Treatment sname="Plavix">Clopidogrel</Treatment>
+		<Treatment>Ticiopidine</Treatment>
+		<Treatment>(Carotid endarterectomy) Surgery to remove plaque from blood vessel(s)</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>People diagnosed with TIA are sometimes said to have had a warning for an approaching stroke.</Prognosis>
+		<Prognosis>If the time period of blood supply impairment lasts more than a few minutes, the nerve cells of that area of the brain die and cause permanent neurologic damage.</Prognosis>
+		<Prognosis>One-third of the people with TIA later have recurrent TIAs and one-third have a stroke because of permanent nerve cell loss. Other sources cite that 10% of TIAs will develop a stroke within 90 days, half of which will occur in the first two days following the TIA.</Prognosis>
+	</Prognoses>
+</Disease>

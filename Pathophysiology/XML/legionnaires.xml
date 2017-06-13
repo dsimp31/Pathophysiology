@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A form of atypical pneumonia caused by any type of Legionella bacteria</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Legionnaires%27_disease</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Legionnairse's Disease</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Infectious</Speciality>
+		<Speciality>Pulmonary</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Pontiac Fever</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Cough</Symptom>
+		<Symptom>Shortness of Breath</Symptom>
+		<Symptom>Fever</Symptom>
+		<Symptom>Muscle Pain</Symptom>
+		<Symptom>Headache</Symptom>
+		<Symptom>Pneumonia</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Legionella Bacteria</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Older Age</RiskFactor>
+		<RiskFactor>History of Smoking</RiskFactor>
+		<RiskFactor>Chronic Lung Disease</RiskFactor>
+		<RiskFactor>Poor Immune Function</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Urinary Antigen Test</Diagnostic>
+		<Diagnostic>Sputum Culture</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Antibiotics</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>10% risk of death</Prognosis>
+	</Prognoses>
+</Disease>

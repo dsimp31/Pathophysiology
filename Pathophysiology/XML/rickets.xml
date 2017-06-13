@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>defective mineralization or calcification of bones before epiphyseal closure in immature mammals due to deficiency or impaired metabolism of vitamin D, phosphorus or calcium, potentially leading to fractures and deformity.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Rickets</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Rickets</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Bone</Speciality>
+		<Speciality>Vitamin Deficiency</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Osteomalacia</Relation>
+		<Relation>McCune-Albright Syndrome</Relation>
+		<Relation>Epidermal nevus syndrome</Relation>
+		<Relation>Dents Disease</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Widening of wrist (early symptom)</Symptom>
+		<Symptom>Bone fractures</Symptom>
+		<Symptom>Bone deformities</Symptom>
+		<Symptom>Dental problems</Symptom>
+		<Symptom>Muscle weakness (myopathy)</Symptom>
+		<Symptom>Hypocalcemia</Symptom>
+		<Symptom>Uncontrollable muscle spasms (Tetany)</Symptom>
+		<Symptom>Soft skull (Craniotabes)</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Vitamin D deficiency</Cause>
+		<Cause>Other maternal diseases, including severe osteomalacia, untreated celiac disease, pre-eclampsia, or premature birth.</Cause>
+		<Cause>Hypocalcemia</Cause>
+		<Cause>Hypophosphatemia</Cause>
+		<Cause>Malnutrition</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Breast-fed infants whose mothers are not exposed to sunlight</RiskFactor>
+		<RiskFactor>Breast-fed infants who are not exposed to sunlight</RiskFactor>
+		<RiskFactor>Adolescents, in particular when undergoing the pubertal growth spurt</RiskFactor>
+		<RiskFactor>Any child whose diet does not contain enough vitamin D or calcium</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Low levels of calcium and/or phosphorous in blood serum</Diagnostic>
+		<Diagnostic>Alkaline phosphatase may be high due to change in shape or stucture of the bones.</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Diatary intake of calcium, phosphates, and vitamin D</Treatment>
+		<Treatment>Ultraviolet B light in sunlight</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

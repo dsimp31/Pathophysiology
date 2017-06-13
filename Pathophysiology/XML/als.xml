@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A specific disease that causes the death of neurons which control voluntary muscles.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Amyotrophic lateral sclerosis</Name>
+		<Name>ALS</Name>
+		<Name>Lou Gehrig's Disease</Name>
+		<Name>Motor neurone disease</Name>
+		<Name>MND</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Neurology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Multiple sclerosis</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Stiff muscles</Symptom>
+		<Symptom>Muscle twitching</Symptom>
+		<Symptom>Gradually worsening weakness due to muscles decreasing in size</Symptom>
+		<Symptom>Difficulty speaking, swallowing and/or breathing due to weakened muscles</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause frequency="Majority">Unknown</Cause>
+		<Cause frequency="Minority">Genetic</Cause>
+		<Cause>A defect in chromosome 21 is associated with about 20% of cases</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>First degree relatives of an individual with ALS have about a 1% risk of developing ALS</RiskFactor>
+		<RiskFactor>Head injury</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Primarily based on observed signs and symptoms. No test can provide definitive diagnosis of ALS.</Diagnostic>
+		<Diagnostic>Review of medical history, especially muscle weakness or atrophy, hyperreflexia, and spasticity.</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Riluzole has been found to modestly improve survival by 2-3 months.</Treatment>
+		<Treatment>Breathing support via ventilatory assistance</Treatment>
+		<Treatment>Physical therapy</Treatment>
+		<Treatment>Nutrition and diet changes to avoid foods that are difficult to swallow</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>No cure is known. A drug called riluzole may extend life by 2-3 months.</Prognosis>
+		<Prognosis>Non-invasive ventilation may result in improved quality and length of life.</Prognosis>
+	</Prognoses>
+</Disease>

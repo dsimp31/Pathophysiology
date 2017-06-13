@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A long-term neuromuscular disease that leads to varying degrees of skeletal muscle weakness. The most commonly affected muscles are those of the eyes, face, and swallowing. It can result in double vision, drooping eyelids, trouble talking, and trouble walking. Onset can be sudden. Those affected often have a large thymus gland or develop a thymoma.[</ShortDescription>
+		<WikiURL>https://en.m.wikipedia.org/wiki/myasthenia%20gravis</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Myasthenia Gravis</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Neurology</Speciality>
+		<Speciality>Immune Synaptopathy</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom>(Initial) Painless weakness of specific muscles, not fatique</Symptom>
+		<Symptom sname="Ptosis">Eyelid drooping</Symptom>
+		<Symptom sname="Diplopia">Double vision</Symptom>
+		<Symptom sname="Dysphagia">Weakness of muscles can lead to swallowing difficulty</Symptom>
+		<Symptom>Slowed or slurred speech</Symptom>
+		<Symptom>Inability to hold the mouth closed</Symptom>
+		<Symptom>Snarling appearance when attempting to smilie</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Transmission defects in nerve impulses to muscles</Cause>
+		<Cause>Acetylcholine no longer produces muscle contractions</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Blood serum test for acetylcholine antibodies</Diagnostic>
+		<Diagnostic>Some patients without acetylcholine receptors have antibodies against the MuSK protein</Diagnostic>
+		<Diagnostic>Electrodiagnostics</Diagnostic>
+		<Diagnostic>Application of ice can raise the eyelid >2mm after the ice is removed.</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Acetylcholinesterase inhibitor</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>The prognosis of MG patients is generally good, as is quality of life, given very good treatment.</Prognosis>
+		<Prognosis>In the early 1900s, the mortality associated with MG was 70%; now, that number is estimated to be around 3–5%, which is attributed to increased awareness and medications to manage symptoms.</Prognosis>
+	</Prognoses>
+</Disease>

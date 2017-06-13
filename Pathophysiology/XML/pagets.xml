@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>The excessive breakdown and formation of bone, followed by disorganized bone remodeling. This causes affected bone to weaken, resulting in pain, misshapen bones, fractures, and arthritis in the joints near the affected bones.</ShortDescription>
+		<WikiURL>https://en.m.wikipedia.org/wiki/Paget%27s_disease_of_bone</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Paget's disease</Name>
+		<Name>Paget's disease of bone</Name>
+		<Name>Osteitis deformans</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Rheumatology</Speciality>
+		<Speciality>Bone</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation frequency="Rare">Paget's Sarcoma</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Many people have a mild case with no symptoms</Symptom>
+		<Symptom>Symptoms can be confused with arthritis and other disorders</Symptom>
+		<Symptom frequency="Common">Bone pain</Symptom>
+		<Symptom>The first manifestation is usually elevated alkaline phosphatase in the blood</Symptom>
+		<Symptom>Loss of hearing in one or both ears</Symptom>
+		<Symptom>Gross deformities to bones</Symptom>
+		<Symptom frequency="Rare">Compression of the nerves that supply the eye, leading to vision loss</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Slow virus infection (i.e. paramyxoviridae) present for many years before symptoms appear.</Cause>
+		<Cause>Associated virii include respiratory synctial virus and canine distemper virus</Cause>
+		<Cause note="Contested">Laboratory contamination may have played a role in past studies linking measles to Pagets</Cause>
+		<Cause>Two genes, SQSTM1 and RANK, and specific regions of chromosomes 5 and 6 are associated</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Elevated alkaline phosphatase in the blood</Diagnostic>
+		<Diagnostic>Skeletal X-rays</Diagnostic>
+		<Diagnostic>Markers of bone turnover (pyridinoline) in urine</Diagnostic>
+		<Diagnostic>Elevated hydroxyproline levels in urine</Diagnostic>
+		<Diagnostic>Bone scan</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Medication for pain</Treatment>
+		<Treatment>Biophosphanates: Risedronic, alendronic, pamidronic, and Etidronic acids</Treatment>
+		<Treatment>Calcitonin</Treatment>
+		<Treatment>Surgery</Treatment>
+		<Treatment>Diet and exercise</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Although there is no cure for Paget's disease, medications (bisphosphonates and calcitonin) can help control the disorder and lessen pain and other symptoms.</Prognosis>
+	</Prognoses>
+</Disease>

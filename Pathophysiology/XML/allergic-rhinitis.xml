@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A type of inflammation in the nose which occurs when the immune system overreacts to allergens in the air.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Allergic_rhinitis</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Allergic rhinitis</Name>
+		<Name>Hay fever</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Allergy</Speciality>
+		<Speciality>Immunology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom sname="Rhinorrhea">Excess nasal secretion</Symptom>
+		<Symptom>Itching</Symptom>
+		<Symptom>Nasal congestion and obstruction</Symptom>
+		<Symptom>Conjunctival swelling</Symptom>
+		<Symptom sname="Erythema">Redness around nose</Symptom>
+		<Symptom>Eyelid swelling</Symptom>
+		<Symptom>Rings under the eyes</Symptom>
+		<Symptom>Cross-reactivity to other allergens</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Pollens of specific seasonal, wind-pollinated plants</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Patch test</Diagnostic>
+		<Diagnostic>RAST blood test</Diagnostic>
+		<Diagnostic>Skin-prick, intradermal, and blood tests</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Antihistamines</Treatment>
+		<Treatment>Steroids</Treatment>
+		<Treatment>Decongestants</Treatment>
+		<Treatment>Nasal irrigation</Treatment>
+		<Treatment>Allergen immunotherapy</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

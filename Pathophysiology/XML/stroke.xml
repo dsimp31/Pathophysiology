@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A stroke is when poor blood flow to the brain results in cell death. There are two main types of stroke: ischemic, due to lack of blood flow, and hemorrhagic, due to bleeding.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Stroke</Name>
+		<Name>Cerebral hemorrhage</Name>
+		<Name>Subarachnoid hemorrhage</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Neurology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Ischemic stroke</Relation>
+		<Relation>Hemorrhagic stroke</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Inability to move or feel one side of the body</Symptom>
+		<Symptom>Problems understanding or speaking</Symptom>
+		<Symptom>Feeling like the world is spinning</Symptom>
+		<Symptom>Loss of vision to one side</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Thrumbus forms around aherosclerotic plaques</Cause>
+		<Cause>Arterial embolism</Cause>
+		<Cause>Cerebral hypoperfusion, reduction of blood flow to all parts of the brain</Cause>
+		<Cause>Venous thrombosis</Cause>
+		<Cause>Intracerebral hemmorhage</Cause>
+		<Cause>Drug induced bleeding</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Hypertension</RiskFactor>
+		<RiskFactor>Tabacco smoking</RiskFactor>
+		<RiskFactor>Obesity</RiskFactor>
+		<RiskFactor>High blood cholesterol</RiskFactor>
+		<RiskFactor>Diabetes mellitus</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Neurological examination</Diagnostic>
+		<Diagnostic>CT / MRI scans</Diagnostic>
+		<Diagnostic>Doppler ultrasound</Diagnostic>
+		<Diagnostic>Arteriography</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Supportive care with blood pressure control</Treatment>
+		<Treatment>Monitoring for consciouness, blood sugar levels and oxygenation</Treatment>
+		<Treatment>Neurosurgical intervention</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

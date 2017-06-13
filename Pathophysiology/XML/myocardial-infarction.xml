@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Occurs when blood flow stops to a part of the heart causing damage to the heart muscle.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Myocardial_infarction</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Myocardial infarction</Name>
+		<Name>MI</Name>
+		<Name>Heart attack</Name>
+		<Name>Acute myocardial infarction</Name>
+		<Name>AMI</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Cardiology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Coronary artery disease</Relation>
+		<Relation>Artherosclerosis</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom frequency="Common">Chest pain or discomfort that may travel into the shoulder, arm, back, neck, or jaw.</Symptom>
+		<Symptom>Shortness of breath</Symptom>
+		<Symptom>Nausea</Symptom>
+		<Symptom>Feeling faint</Symptom>
+		<Symptom>Cold sweats</Symptom>
+		<Symptom>Feeling tired</Symptom>
+		<Symptom>About 30% of people have atypical symptems</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Coronary artery disease</Cause>
+		<Cause>Diet</Cause>
+		<Cause>Genetics</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Hypertension</RiskFactor>
+		<RiskFactor>Smoking</RiskFactor>
+		<RiskFactor>Diabetes</RiskFactor>
+		<RiskFactor>Lack of exercise</RiskFactor>
+		<RiskFactor>High blood cholesterol</RiskFactor>
+		<RiskFactor>Poor diet</RiskFactor>
+		<RiskFactor>Excessive alcohol intake</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic note="Best">Elevated Troponins in blood test</Diagnostic>
+		<Diagnostic>Changes in ECG, such as ST segment changes, new left bundle branch block, or Q waves</Diagnostic>
+		<Diagnostic>Changes in the motion of the heart wall on imaging</Diagnostic>
+		<Diagnostic>Demonsration of a thrombus on angiogram or at autopsy</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Immediate medical attention</Treatment>
+		<Treatment>Pain treatment with nitroglycerin or morphine</Treatment>
+		<Treatment>Aspin as a loading dose for anticoagulation</Treatment>
+		<Treatment>P2Y12 inhibitors such as clopidogrel, prasugrel and ticagrelor as a loading dose</Treatment>
+		<Treatment>Primary pericutaneous coronary intervention (PCI)</Treatment>
+		<Treatment>Fibrinolysis if PCI cannot be performed</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Varies greatly depending on the extent and location of the affected muscle and the development and management of complications.</Prognosis>
+		<Prognosis>Worse with older age and social isolation.</Prognosis>
+		<Prognosis>Without treatment, about 25% affected by MI die within minutes, and about 40% within the first month.</Prognosis>
+		<Prognosis>About 5-6% die before leaving the hospital, and 7-18% die within a year.</Prognosis>
+	</Prognoses>
+</Disease>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Water entering the lungs causes a muscle spasm that constricts the trachea and blocks the passage of both water and air, resulting in hypoxyia and eventual irreversible cerebral damage due to anoxia.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Drowning</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Drowning</Name>
+		<Name>Near Drowning</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Pulmonary</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom>Head low in the water, mouth at water level</Symptom>
+		<Symptom>Head tilted back with mouth open</Symptom>
+		<Symptom>Eyes glassy and empty, unable to focus</Symptom>
+		<Symptom>Eyes open, with fear evident on the face</Symptom>
+		<Symptom>Hyperventilating or gasping</Symptom>
+		<Symptom>Trying to swim in a particular direction but not making headway</Symptom>
+		<Symptom>Trying to roll over on the back to float</Symptom>
+		<Symptom>Uncontrollable movement of arms and legs, rarely out of the water.</Symptom>
+		<Symptom>Heart Arrhythmia</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Breath-hold under voluntary control until the urge to breathe due to hypercapnia becomes overwhelming.</Cause>
+		<Cause>Fluid is aspirated into the airways and/or swallowed</Cause>
+		<Cause>Cerebral anoxia stops breathing and aspiration</Cause>
+		<Cause>Cerebral injury due to anoxia becomes irreversible</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Children and young adults</RiskFactor>
+		<RiskFactor>Male (80% of all drown victims)</RiskFactor>
+		<RiskFactor>Behavioral factors, such as alcohol use, or free access to water.</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Low arterial blood pH</Diagnostic>
+		<Diagnostic>Through observation of signs and symptoms</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Rewarming, usually through warmed IV fluids, or introducing heated O2 into the lungs</Treatment>
+		<Treatment>Mild hyperventilation</Treatment>
+		<Treatment>Aggressive control of seizure activity</Treatment>
+		<Treatment>Elevation of the head, if there is no suspiction of neck injury</Treatment>
+		<Treatment>Muscle relaxants if needed to treat respiratory failure</Treatment>
+		<Treatment>Maintenance of blood sugar levels and normal body temperature.</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Drowning victims who arrive at a hospital with spontaneous circulation and breathing usually recover with good outcomes.</Prognosis>
+		<Prognosis>If treated within 0-5 minutes, 10% chance of death, which increases to nearly 100% at 25 minutes.</Prognosis>
+	</Prognoses>
+</Disease>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>a rare disease in which the bone marrow and the hematopoietic stem cells that reside there are damaged, causing a deficiency in all three blood cell types.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Aplastic_anemia</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Aplastic anemia</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Hematology</Speciality>
+		<Speciality>Oncology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom>Malaise</Symptom>
+		<Symptom>Palpitations</Symptom>
+		<Symptom sname="Pallor">Pale skin color</Symptom>
+		<Symptom>Bruises, petechiae, or hemorrhages</Symptom>
+		<Symptom>Infections, due to low WBC count</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Exposure to certain chemicals, drugs, radiation or infection</Cause>
+		<Cause>Idiopathic in about 50% of cases</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Bone marrow aspirate and biopsy</Diagnostic>
+		<Diagnostic>Patient history of exposure to cytotoxic chemotherapy</Diagnostic>
+		<Diagnostic>Chest X-ray</Diagnostic>
+		<Diagnostic>Liver test</Diagnostic>
+		<Diagnostic>Viral studies</Diagnostic>
+		<Diagnostic>Vitamin B-12 and Folate levels</Diagnostic>
+		<Diagnostic>Blood test for paroxysmal nocturnal hemoglobinuria</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Low platelet count in blood tests</Treatment>
+		<Treatment>Treatment with antithymocyte globulin (ATG) and several months of ciclosporin to modulate the immune system</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

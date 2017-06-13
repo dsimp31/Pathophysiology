@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>he softening of the bones caused by impaired bone metabolism primarily due to inadequate levels of available phosphate, calcium, and vitamin D, or because of resorption of calcium.</ShortDescription>
+		<WikiURL>https://en.m.wikipedia.org/wiki/Osteomalacia</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Osteomalacia</Name>
+		<Name>Adult Rickets</Name>
+		<Name>Matrix hypomineralization</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Bone</Speciality>
+		<Speciality>Vitamin Deficiency</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Rickets</Relation>
+		<Relation>Osteoperosis</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Diffuse body pains</Symptom>
+		<Symptom>Muscle weakness</Symptom>
+		<Symptom>Fragility of the bones</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Vitamin D deficiency</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Low systemic levels of circulating mineral ions necessary for bone and tooth mineralization</Diagnostic>
+		<Diagnostic>Accumulation of mineralization-inhibiting proteins and peptides (such as osteopontin annd ASARM peptides) in the extracellular matrix of bones and teeth.</Diagnostic>
+		<Diagnostic>Low serum and urinary calcium</Diagnostic>
+		<Diagnostic>Low serum phospate (except in cases of renal osteodystrophy)</Diagnostic>
+		<Diagnostic>Elevated serum alkaline phosphatase (due to increased osteoblast activity)</Diagnostic>
+		<Diagnostic>Elevated parathyroid hormone (due to low calcium)</Diagnostic>
+		<Diagnostic>A technetium bone scan will show increased activity (due to osteoblasts)</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>4-6 weeks of Vitamin D (10,000 IU weekly) and Calcium supplements are synergistic</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

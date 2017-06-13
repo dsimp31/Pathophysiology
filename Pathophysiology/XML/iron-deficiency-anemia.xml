@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>anemia caused by a lack of iron. Anemia is defined as a decrease in the number of red blood cells or the amount of hemoglobin in the blood.[</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Iron-deficiency_anemia</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Iron deficiency anemia</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Hematology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom>Anxiety, often resulting in OCD-type behaviors</Symptom>
+		<Symptom>Irritability or a low feeling</Symptom>
+		<Symptom>Angina</Symptom>
+		<Symptom>Constipation</Symptom>
+		<Symptom>Sleepiness / Hypersomnia</Symptom>
+		<Symptom>Tinnitus</Symptom>
+		<Symptom>Mouth ulcers</Symptom>
+		<Symptom>Palpitations</Symptom>
+		<Symptom>Hair loss</Symptom>
+		<Symptom>Fainting or feeling faint</Symptom>
+		<Symptom>Depression</Symptom>
+		<Symptom>Breathlessness</Symptom>
+		<Symptom>Twitching muscles</Symptom>
+		<Symptom>Pale yellow skin</Symptom>
+		<Symptom>Tingling, numbness or burning sensations</Symptom>
+		<Symptom>Glossitis</Symptom>
+		<Symptom>Angular cheilitis</Symptom>
+		<Symptom sname="Koilonychia">Spoon-shaped nails</Symptom>
+		<Symptom sname="Pruritus">Itchiness</Symptom>
+		<Symptom sname="Dysphagia">Difficulty in swallowing</Symptom>
+		<Symptom>Restless legs syndrome</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Parasitic disease, malaria and vitamin A deficiency in developing countries</Cause>
+		<Cause>Blood loss</Cause>
+		<Cause>Diet</Cause>
+		<Cause>Iron absorption</Cause>
+		<Cause>Pregnancy</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>From signs and symptoms</Diagnostic>
+		<Diagnostic>Patient history</Diagnostic>
+		<Diagnostic>Blood test</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Diet, if cause is dietary</Treatment>
+		<Treatment>Fortification of iron intake with ascorbic acid</Treatment>
+		<Treatment>Separating intake of iron and other substances</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

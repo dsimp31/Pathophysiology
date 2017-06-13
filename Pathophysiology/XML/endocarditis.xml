@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Inflammation of the inner layer of the heart, the endocardium. It usually involves the heart valves. Characterized by lesions, known as vegetations, which are a mass of platelets, fibrin, microcolonies of microorganisms, and inflammatory cells. Some vegetation may include a center of granulomatous tissue, which may fibrose or calcify.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Endocarditis</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Endocarditis</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Cardiology</Speciality>
+		<Speciality>Infectious disease</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Pericarditis</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Fever</Symptom>
+		<Symptom>Chills</Symptom>
+		<Symptom>Sweating</Symptom>
+		<Symptom>Malaise</Symptom>
+		<Symptom>Weakness</Symptom>
+		<Symptom>Anorexia</Symptom>
+		<Symptom>Weight loss</Symptom>
+		<Symptom>(Splenomegaly) enlargement of the spleen</Symptom>
+		<Symptom>Flu-like feeling</Symptom>
+		<Symptom>Cardiac murmur</Symptom>
+		<Symptom>Heart failure</Symptom>
+		<Symptom>Petechia of anterior trunk</Symptom>
+		<Symptom>Janesway's lesions</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause type="Infective">Since the valves of the heart do not receive any dedicated blood supply, defensive immune mechanisms (such as white blood cells) cannot directly reach the valves via the bloodstream. If an organism (such as bacteria) attaches to a valve surface and forms a vegetation, the host immune response is blunted.</Cause>
+		<Cause type="Infective">Rheumatic fever</Cause>
+		<Cause type="Infective">Rheumatic heart disease</Cause>
+		<Cause type="Non-infective">Can occur in patients with cancers or lupus</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Detailed physical exam</Diagnostic>
+		<Diagnostic>Complete history taking</Diagnostic>
+		<Diagnostic>Blood tests</Diagnostic>
+		<Diagnostic>ECG</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment/>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

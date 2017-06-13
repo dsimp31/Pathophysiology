@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A rash-causing airborne viral infection that usually lasts about 3 days</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Rubella</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Rubella</Name>
+		<Name>Three-day measles</Name>
+		<Name>German measles</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Infectious disease</Speciality>
+		<Speciality>Virus</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Congenital rubella syndrome</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Rash on the face that spreads to the trunk and limbs and usually fades after 3 days</Symptom>
+		<Symptom>Low-grade fever</Symptom>
+		<Symptom>Swollen lymph glands, often lasting a week or two</Symptom>
+		<Symptom>Joint pain</Symptom>
+		<Symptom>Headache</Symptom>
+		<Symptom sname="Conjunctivitis">Pink-eye</Symptom>
+		<Symptom>Cataracts from congenital rubella syndrome</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Airborne rubella virus</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Older people typically have more severe symptoms</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Rubella IgM antibodies can persist in the body for a year</Diagnostic>
+		<Diagnostic>Physical examination</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>No specific treatment</Treatment>
+		<Treatment>Management of complications for infants born with congenital rubella syndrome</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>The disease is often mild with half of people not even realizing they are sick. Once recovered, people are immune to future infection.</Prognosis>
+	</Prognoses>
+</Disease>

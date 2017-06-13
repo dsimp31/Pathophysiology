@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Damage to or disease affecting nerves, which may impair sensation, movement, gland or organ function, or other aspects of health, depending on the type of nerve affected.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Peripheral_neuropathy</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Peripheral neuropathy</Name>
+		<Name>Mononeuropathy</Name>
+		<Name>Polyneuropathy</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Neurology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Autonomic neuropathy</Relation>
+		<Relation>Neuritis</Relation>
+		<Relation>Mononeuritis multiplex</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Any problem related to normal nerve function</Symptom>
+		<Symptom>Numbness, tremors, impairment of balance</Symptom>
+		<Symptom>Pain, itching, pins-and-needles</Symptom>
+		<Symptom>Loss of autonomic muscle control of cardiovascular, bladder, digestive, or genital muscles.</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Systemic diseases like diabetes or leprosy</Cause>
+		<Cause>Vitamin deficiency</Cause>
+		<Cause>Medications like chemotherapy</Cause>
+		<Cause>Antibiotics, including metronidazole and fluoroquinolone</Cause>
+		<Cause>Traumatic injury, including ischemia (restriction of blood supply to tissues)</Cause>
+		<Cause>Radiation therapy</Cause>
+		<Cause>Excessive alcohol consumption</Cause>
+		<Cause>Immune system disease</Cause>
+		<Cause>Coeliac disease</Cause>
+		<Cause>Viral infection</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Patient reports numbness, tingling, and pain in feet</Diagnostic>
+		<Diagnostic>Neurological examination</Diagnostic>
+		<Diagnostic>Electromyography (EMG)</Diagnostic>
+		<Diagnostic>Nerve conduction studies (NCS)</Diagnostic>
+		<Diagnostic>Punch biopsy of 3mm layer of skin from calf</Diagnostic>
+		<Diagnostic>Lab tests for vitamin B12 levels, thyroid stimulating hormone (TSH) levels</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Blood sugar management in diabetes patients</Treatment>
+		<Treatment>Intravenous immunoglobulin or steroids for immune-related pateients</Treatment>
+		<Treatment>Transcutaneous electrical nerve stimulation (TENS)</Treatment>
+		<Treatment>Use of cannabis for neuropathic pain</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

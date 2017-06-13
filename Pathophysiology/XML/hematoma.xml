@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A hematoma is a localized collection of blood outside the blood vessels, due to either disease or trauma including injury or surgery.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Hematoma</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Hematoma</Name>
+		<Name>Bruise</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Skin</Speciality>
+		<Speciality>Tissue</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation type="Subdural hematoma">Bruise between the dura mater and arachnoid mater</Relation>
+		<Relation type="Epidural hematoma">Bruise between the skull and dura mater</Relation>
+		<Relation type="Subungual hematoma">Bruse under nail</Relation>
+		<Relation sname="Petechiae">Small pinpoint hematomas less than 3mm in diameter</Relation>
+		<Relation sname="Purpura">Purple bruise about 1cm in diameter</Relation>
+		<Relation sname="Ecchymosis">Subcutaneous extravasation of blood in a thin layer under the skin over 1cm in diameter (black and blue)</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Brusing visible under the surface of the skin</Symptom>
+		<Symptom>Movement of hematoma, often due to gravity</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Damage to subcutaneous tissue</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic/>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Movement and exercise</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

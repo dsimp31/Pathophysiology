@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Impetigo is a bacterial infection that involves the superficial skin. The most common presentation is yellowish crusts on the face, arms, or legs. Less commonly there may be large blisters which affect the groin or armpits.</ShortDescription>
+		<WikiURL>https://en.m.wikipedia.org/wiki/Impetigo</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Impetigo</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Skin</Speciality>
+		<Speciality>Bacterial</Speciality>
+		<Speciality>Infectious</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom>Yellowish crusts on the face, arms or legs.</Symptom>
+		<Symptom>Large blisters that affect the groin or armpits.</Symptom>
+		<Symptom>Lesions may be painful or itchy.</Symptom>
+		<Symptom frequency="Uncommon">Fever</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Staphylococcus aureus</Cause>
+		<Cause>Streptococcus pyogenes</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Attending daycare</RiskFactor>
+		<RiskFactor>Crowding</RiskFactor>
+		<RiskFactor>Poor nutrition</RiskFactor>
+		<RiskFactor>Diabetes</RiskFactor>
+		<RiskFactor>Contact sports</RiskFactor>
+		<RiskFactor>Breaks in the skin from bites, eczema, scabies, or herpes</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Visual</Diagnostic>
+		<Diagnostic>If visual diagnosis is unclear, a culture may be done for resistant bacteria</Diagnostic>
+		<Diagnostic>Differential diagnosis, due to symptoms being similar to contact dermatitis, herpes simplex, discoid lupus, and scabies.</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Antibiotics</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Without treatment people typically get better within three weeks.</Prognosis>
+	</Prognoses>
+</Disease>

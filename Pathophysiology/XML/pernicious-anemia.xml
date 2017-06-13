@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A disease in which not enough RBCs are present due to a lack of vitamin B-12</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Vitamin_B12_deficiency_anemia</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Vitamin B-12 deficiency anemia</Name>
+		<Name>Pernicious anemia</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Hematology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation/>
+	</Relations>
+	<Symptoms>
+		<Symptom sname="Parasthesia">Tingling in the skin</Symptom>
+		<Symptom sname="Glossitis">Tongue soreness</Symptom>
+		<Symptom>Fatigue and general weakness</Symptom>
+		<Symptom>Depressive mood</Symptom>
+		<Symptom>Low grade fevers</Symptom>
+		<Symptom>Diaarrhea</Symptom>
+		<Symptom sname="Dyspepsia">Indegestion</Symptom>
+		<Symptom>Jaundice</Symptom>
+		<Symptom sname="Angular cheilitis">Sores at the corner of the mouth</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Lack of gastric intrinsic factor (GIF) due to autoimmune attack on the cells that make GIF in the stomach</Cause>
+		<Cause>Poor diet</Cause>
+		<Cause>Celiac disease</Cause>
+		<Cause>Tapeworm infection</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>60+ years old</RiskFactor>
+		<RiskFactor>RiskFactor2</RiskFactor>
+		<RiskFactor>RiskFactor3</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Blood test</Diagnostic>
+		<Diagnostic>Bone marrow test</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Administration of vitamin B-12</Treatment>
+		<Treatment>Intramuscular injections of cobalamin</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>A person with well-treated PA can live a healthy life. Failure to diagnose and treat in time, however, may result in permanent neurological damage, excessive fatigue, depression, memory loss, and other complications.</Prognosis>
+		<Prognosis>In severe cases, the neurological complications of pernicious anemia can lead to death - hence the name, "pernicious", meaning deadly.</Prognosis>
+	</Prognoses>
+</Disease>

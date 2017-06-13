@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Artery wall thickens as a result of invasion and accumulation of WBCs and proliferation of intimal-smooth-muscle cell creating an atheromatous (fibrofatt) plaque.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Atherosclerosis</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Atherosclerosis</Name>
+		<Name>Arteriosclerotic vascular disease</Name>
+		<Name>ASVD</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Cardiology</Speciality>
+		<Speciality>Angiology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Arteriosclerosis</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Asymptomatic for decades because arteries enlarge at plaque locations, thus there is no affect on blood flow.</Symptom>
+		<Symptom>Even most plaque ruptures do not produce symptoms until sufficient narrowing or closure of an artery occurs.</Symptom>
+		<Symptom>Marked narrowing can produce chest pain of angine, shortness of breath, sweating, nausea, dizziness, palpitations.</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>The artherosclerotic process is not fully understood</Cause>
+		<Cause>Initiated by an inflammatory process in the endothelial cells of the blood cell associated with retained low-density lipoprotein (LDL) particles.</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Diabetes</RiskFactor>
+		<RiskFactor sname="Dyslipoproteinemia">Unhealthy patterns of serum proteins carrying fats and cholesterol</RiskFactor>
+		<RiskFactor>Tobacco smoking</RiskFactor>
+		<RiskFactor>Elevated serum C-reactive protein concentrations</RiskFactor>
+		<RiskFactor>Vitamin B-12 deficiency</RiskFactor>
+		<RiskFactor>Dietary iodine deficiency</RiskFactor>
+		<RiskFactor>Hypothyroidism</RiskFactor>
+		<RiskFactor>Advanced age</RiskFactor>
+		<RiskFactor>Genetic abnormalities</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Angiography</Diagnostic>
+		<Diagnostic>Doppler ultrasound of arteries</Diagnostic>
+		<Diagnostic>Blood serum levels of HbA1c, hs-CRP, and homocysteine</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Alleviation of symptoms</Treatment>
+		<Treatment>Statin medications</Treatment>
+		<Treatment>Dietary changes</Treatment>
+		<Treatment>Surgery</Treatment>
+		<Treatment>Anticoagulants like warfarin may actually promote arterial calcification in the long term, despite reducing clot formation in the short term.</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A type of hematoma, usually associated with traumatic brain injury. Blood gathers between the inner layer of the dura mater and the arachnoid mater. Usually resulting from tears in bridging veins which cross the subdural space, subdural hemorrhages may cause an increase in intracranial pressure (ICP), which can cause compression of and damage to delicate brain tissue.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Subdural_hematoma</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Subdural hematoma</Name>
+		<Name>Subdural hemorrhage</Name>
+		<Name>SDH</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Neurosurgery</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Traumatic brain injury</Relation>
+		<Relation>TBI</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>history of recent head injury</Symptom>
+		<Symptom>Loss of consciousness or fluctuating levels of consciousness</Symptom>
+		<Symptom>Irritability</Symptom>
+		<Symptom>Seizures</Symptom>
+		<Symptom>Pain</Symptom>
+		<Symptom>Numbness</Symptom>
+		<Symptom>Headache (either constant or fluctuating)</Symptom>
+		<Symptom>Dizziness</Symptom>
+		<Symptom>Disorientation</Symptom>
+		<Symptom>Amnesia</Symptom>
+		<Symptom>Weakness or lethargy</Symptom>
+		<Symptom>Nausea or vomiting</Symptom>
+		<Symptom>Loss of appetite</Symptom>
+		<Symptom>Personality changes</Symptom>
+		<Symptom>Inability to speak or slurred speech</Symptom>
+		<Symptom>Ataxia, or difficulty walking</Symptom>
+		<Symptom>Loss of muscle control</Symptom>
+		<Symptom>Altered breathing patterns</Symptom>
+		<Symptom>Hearing loss or hearing ringing (tinnitus)</Symptom>
+		<Symptom>Blurred Vision</Symptom>
+		<Symptom>Deviated gaze, or abnormal movement of the eyes.</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Head injury in which rapidly changing velocities may stretch and tear small bridging veins.</Cause>
+		<Cause>Shearing injuries due to rotational or linear forces.</Cause>
+		<Cause>A classic symptom of shaken baby syndrome</Cause>
+		<Cause>Anticoagulants or antiplatelet drugs like warfarin and aspirin</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Elederly and alcoholics who have evidence of cerebral atrophy</RiskFactor>
+		<RiskFactor>Use of anticoagulant or antiplatelet drugs like warfarin and aspirin</RiskFactor>
+		<RiskFactor>Very young or very old age</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Neurological examination</Diagnostic>
+		<Diagnostic>CT or MRI scan</Diagnostic>
+		<Diagnostic>Classic crescent shape on a CT scan, with concave surface away from the skull.</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Depends upon size and rate of growth</Treatment>
+		<Treatment>Some small hematomas can be managed by monitoring until the body heals itself</Treatment>
+		<Treatment>Insert small catheter through a hole drilled through the skull and sucking out the hematoma</Treatment>
+		<Treatment>Large hematomas require craniotomy, the surgical opening of the skull.</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Subdural hematomas are often life-threatening when acute. Chronic subdural hematomas, however, have a better prognosis if properly managed.</Prognosis>
+	</Prognoses>
+</Disease>

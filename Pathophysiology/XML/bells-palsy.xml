@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A type of facial paralysis that results in an inability to control the facial muscles on the affected side.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Bell%27s_palsy</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Bell's palsy</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Neurology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Herpes zoster</Relation>
+		<Relation>Lyme disease</Relation>
+		<Relation>Sarcoidosis</Relation>
+		<Relation>Stroke</Relation>
+		<Relation>Brain tumors</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>One-sided facial droops that comes on within 72 hours</Symptom>
+		<Symptom frequency="Rare">Both sides, resulting in total facial paralysis</Symptom>
+		<Symptom>Difficulty blinking, closing the eyes, smiling, frowning, salivation, raising eyebrows.</Symptom>
+		<Symptom>Loss of taste sensation in the anterior 2/3 of the tongue on the affected side.</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Some viruses are thought to establish a persistent or latent infection without symptoms, in particular the varicella-zoster and epstein-barr viruses, both of the herpes family.</Cause>
+		<Cause>New viral activation could be preceded by trauma, environmental factors, and metabolic or emotional disorders.</Cause>
+		<Cause>Genetics has been found in 4-14% of cases.</Cause>
+		<Cause>3x more likely in pregnant women than non-pregnant</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Diagnosis of exclusion, as no specific cause can be determined.</Diagnostic>
+		<Diagnostic>Differential diagnosis</Diagnostic>
+		<Diagnostic>Commonly misdiagnosed as a stroke</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Corticosteroids such as prednisone</Treatment>
+		<Treatment>Antivirals</Treatment>
+		<Treatment>Physiotherapy</Treatment>
+		<Treatment>Surgery</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

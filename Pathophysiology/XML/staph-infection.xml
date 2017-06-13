@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Staphylococcus is a genus of Gram-positive bacteria that can cause a wide variety of infections in humans and other animals through infection or the production of toxins.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Staphylococcal_infection</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Staphylococcal infection</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Skin</Speciality>
+		<Speciality>Infectious</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>MRSA</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Bacterial conjuctivitis</Symptom>
+		<Symptom>Community-acquired meningitis</Symptom>
+		<Symptom>Toxic shock syndrome</Symptom>
+		<Symptom>Staphylococcal scalded skin syndrome, a cutaneious reaction to exotoxin in the bloodstream</Symptom>
+		<Symptom>Pyaemic septicaemia</Symptom>
+		<Symptom>Collection of pus, boil, furuncle, or abscess</Symptom>
+		<Symptom>Area is typically tender or painful</Symptom>
+		<Symptom>Area may be reddened or swollen</Symptom>
+		<Symptom>Genitourinatry tract infections in sexually active young women</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Staphylococcus bacteria</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Improperly stored food</RiskFactor>
+		<RiskFactor>Hospitals</RiskFactor>
+		<RiskFactor>Immune-suppressed patients</RiskFactor>
+		<RiskFactor>Patients with central venous catheters</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Bacterium culture from blood, urine, sputum, or other fluid samples</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Location and history related to the infection determines the treatment.</Treatment>
+		<Treatment>Anti-staphylococcal beta-lactam antibiotics, such as cephalexin</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

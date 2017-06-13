@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Inflammation of the pericardium, the fibrous sac surrounding the heart.</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Pericarditis</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Pericarditis</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Cardiology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Endocarditis</Relation>
+		<Relation>Uremic pericarditis</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Sudden onset of sharp chest pain</Symptom>
+		<Symptom>Pain may be felt in shoulders, neck or back</Symptom>
+		<Symptom>Pain better sitting up, worse lying down or breathing deep</Symptom>
+		<Symptom>Fever</Symptom>
+		<Symptom>Weakness</Symptom>
+		<Symptom>Palpitations</Symptom>
+		<Symptom>Shortness of breath</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Viral infection</Cause>
+		<Cause>Bacterial infection</Cause>
+		<Cause>Uremic Pericarditis</Cause>
+		<Cause>Following a cardiac infarction</Cause>
+		<Cause>Cancer</Cause>
+		<Cause>Autoimmune disorders</Cause>
+		<Cause>Chest trauma</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor/>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic type="Uremic">Increased urea or blood creatinine</Diagnostic>
+		<Diagnostic>ECG will show a 12-lead ECG with diffuse, non-specific, concave, saddle-shaped segment-elevations in all leads except aVR and V1</Diagnostic>
+		<Diagnostic>Ultrasound can show pericardial effusion</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>NSAIDs</Treatment>
+		<Treatment>Colchicine</Treatment>
+		<Treatment>Steroids</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Symptoms typically improve in a few days to weeks, but can occasionally last months.</Prognosis>
+	</Prognoses>
+</Disease>

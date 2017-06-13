@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>A low level of folic acid and derivatives in the body. Also known as vitamin B9, folate is involved in adenosine, guanine, and thymidine synthesis (part of DNA synthesis).</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Folate_deficiency</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Folate deficiency</Name>
+		<Name>Folic acid anemia</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Endocrinology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Possible relation of B9/B12 deficiency to major depressive disorder</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Loss of appetite</Symptom>
+		<Symptom>Weight loss</Symptom>
+		<Symptom>Weakness</Symptom>
+		<Symptom>Sore tongue</Symptom>
+		<Symptom>Headaches</Symptom>
+		<Symptom>Heart palpitations</Symptom>
+		<Symptom>Irritability</Symptom>
+		<Symptom>Behavior Disorders</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>When the body's need for folate is increased</Cause>
+		<Cause>When the body excretes more folate than usual</Cause>
+		<Cause>Mediations that interfere with the body's ability to use folate</Cause>
+		<Cause>A defect in homocysteine methyltransferase or a dificiency of B12</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Pregnancy</RiskFactor>
+		<RiskFactor>Infants, children and adolescents</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>By signs and symptoms</Diagnostic>
+		<Diagnostic>Blood test for B9 and/or B12</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Ensure adequate levels of folate in diet</Treatment>
+		<Treatment>Steaming vegetables helps keep more folate content</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>

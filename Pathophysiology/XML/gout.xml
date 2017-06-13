@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>Gout is a form of inflammatory arthritis characterized by recurrent attacks of a red, tender, hot, and swollen joint. Pain typically comes on rapidly in less than twelve hours. The joint at the base of the big toe is affected in about half of cases</ShortDescription>
+		<WikiURL>https://en.m.wikipedia.org/wiki/Gout</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Gout</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Rhematology</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Hyperuricemia</Relation>
+		<Relation>Septic arthritis</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Hyperuricemia</Symptom>
+		<Symptom>Acute inflammatory arthritis, usually at the base of the big toe</Symptom>
+		<Symptom>Acute inflammatory arthritis of heels, knees, wrists or fingers.</Symptom>
+		<Symptom>Joint pain usually begins over 2-4 hours and during the night</Symptom>
+		<Symptom frequency="Uncommon">Fatigue</Symptom>
+		<Symptom frequency="Rare">High fever</Symptom>
+		<Symptom sname="Tophi">Hard, painless deposits of uric acid crystals</Symptom>
+		<Symptom>Extensive tophi may lead to chronic arthritis due to bone erosion</Symptom>
+		<Symptom>Elevated uric acid levels may lead to crystals in kidneys, resulting in stone formation and subsequent Urate Nephropathy</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Crystallization of uric acid</Cause>
+		<Cause>Diet: Overconsumption of alcohol, fructose-sweetened drunks, meat, seafood</Cause>
+		<Cause>Genetic Predisposition</Cause>
+		<Cause>Undersecretion of urate</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Diet high in meat, seafood and/or alcohol</RiskFactor>
+		<RiskFactor note="Contested">Diet high in purines</RiskFactor>
+		<RiskFactor>Overweight</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>X-Rays useful for chronic gout but not acute</Diagnostic>
+		<Diagnostic>Microscopic examination of synovial fluid (or a tophus) for uric acid crystals.</Diagnostic>
+		<Diagnostic>Blood plasma urate level greater than 420umol in males, 360umol in females.</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>NSAIDs, colchicine and steriods</Treatment>
+		<Treatment>Lowring uric acid levels can cure the disease</Treatment>
+		<Treatment>Treatment of associated health problems is also important</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis>Lowering uric acid levels can cure the disease.</Prognosis>
+	</Prognoses>
+</Disease>

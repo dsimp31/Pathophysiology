@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Disease xmlns="tns:DiseaseSchema">
+	<Meta>
+		<ShortDescription>MRSA is any strain of S. aureus that has developed, through horizontal gene transfer and natural selection, multiple drug resistance to beta-lactam antibiotics</ShortDescription>
+		<WikiURL>https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus</WikiURL>
+	</Meta>
+	<Names>
+		<Name>Methicillin-resistant Staphylococcus aureus</Name>
+		<Name>MRSA</Name>
+	</Names>
+	<Specialties>
+		<Speciality>Skin</Speciality>
+		<Speciality>Open Wounds</Speciality>
+	</Specialties>
+	<Relations>
+		<Relation>Relation1</Relation>
+	</Relations>
+	<Symptoms>
+		<Symptom>Small red bumps that resemble pimples, spider bites, or boils.</Symptom>
+		<Symptom>Within a few days, red bumps become larger and more painful, and eventually open into deep, pus-filled boils.</Symptom>
+		<Symptom>Fever</Symptom>
+		<Symptom>Rash</Symptom>
+	</Symptoms>
+	<Causes>
+		<Cause>Methicillin-resistant Staphylococcus aureus (MRSA) bacteria</Cause>
+	</Causes>
+	<RiskFactors>
+		<RiskFactor>Indwelling implants, prostheses, drains or catheters</RiskFactor>
+		<RiskFactor>Weak immune system</RiskFactor>
+		<RiskFactor>Diabetics</RiskFactor>
+		<RiskFactor>Intravenous drug users</RiskFactor>
+	</RiskFactors>
+	<Diagnostics>
+		<Diagnostic>Bacterium culture from blood, urine, sputum, or other fluid samples</Diagnostic>
+		<Diagnostic>Rapid latex agglutination test that detects PBP2a protein, which imparts MRSA's ability to resist oxacillin.</Diagnostic>
+	</Diagnostics>
+	<Treatments>
+		<Treatment>Treatment is urgent, and delays can be fatal.</Treatment>
+		<Treatment>Location and history related to the infection determines the treatment.</Treatment>
+		<Treatment>Both CA-MRSA and HA-MRSA are resistant to traditional anti-staphylococcal beta-lactam antibiotics, such as cephalexin</Treatment>
+		<Treatment>CA-MRSA has a greater spectrum of antimicrobial susceptibility to sulfa drugs (like co-trimoxazole (trimethoprim/sulfamethoxazole), tetracyclines (like doxycycline and minocycline) and clindamycin (for osteomyelitis).[</Treatment>
+		<Treatment>MRSA can be eradicated with a regimen of linezolid,[85] though treatment protocols vary and serum levels of antibiotics vary widely person to person and may affect outcomes.[</Treatment>
+		<Treatment>The effective treatment of MRSA with linezolid has been successful[85] in 87% of people. Linezolid is more effective in soft tissue infections than vancomycin.</Treatment>
+	</Treatments>
+	<Prognoses>
+		<Prognosis/>
+	</Prognoses>
+</Disease>
